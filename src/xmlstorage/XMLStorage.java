@@ -15,5 +15,6 @@ public class XMLStorage {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Mario hat was geändert");
     }
 }
