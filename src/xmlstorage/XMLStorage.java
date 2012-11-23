@@ -38,7 +38,6 @@ public class XMLStorage implements IStorage{
 
     @Override
     public Object[] insert(Object[] pDataRow) throws DataSourceException {
-        System.out.println("Mario tut nix");
         throw new DataSourceException("Not supported yet.");
     }
 
