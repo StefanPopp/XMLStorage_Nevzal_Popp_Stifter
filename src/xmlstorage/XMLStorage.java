@@ -18,7 +18,8 @@ public class XMLStorage implements IStorage{
 
     @Override
     public MetaData getMetaData() {
-        throw new UnsupportedOperationException("Not supported yet.");
+        System.out.println("");
+        return null;
     }
 
     @Override
