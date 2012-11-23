@@ -28,9 +28,9 @@ package xmlstorage;
 
 import java.util.List;
 import javax.rad.model.SortDefinition;
-import javax.rad.persist.DataSourceException;
-import javax.rad.persist.MetaData; 
 import javax.rad.model.condition.ICondition;
+import javax.rad.persist.DataSourceException;
+import javax.rad.persist.MetaData;
 
 /**
  * The <code>IStorage</code> defines the methods to access any kind of table 
