@@ -29,7 +29,7 @@ package xmlstorage;
 import java.util.List;
 import javax.rad.model.SortDefinition;
 import javax.rad.persist.DataSourceException;
-import javax.rad.persist.MetaData;
+import javax.rad.persist.MetaData; 
 import javax.rad.model.condition.ICondition;
 
 /**
